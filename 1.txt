@@ -1,4 +1,8 @@
 asdasdd
 dsadsaads
 dsadsadsa
+<<<<<<< HEAD
 master
+=======
+hot
+>>>>>>> hot3
