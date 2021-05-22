@@ -2,7 +2,12 @@ asdasdd
 dsadsaads
 dsadsadsa
 <<<<<<< HEAD
+<<<<<<< HEAD
 master
 =======
 hot
+>>>>>>> hot3
+=======
+hot
+dsasda
 >>>>>>> hot3
